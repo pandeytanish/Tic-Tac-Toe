@@ -49,5 +49,9 @@ body{
 #msg{
     color: blueviolet;
     font-size:  8vmin ;
-    
+
+}
+
+.hide{
+    display: none;
 }
